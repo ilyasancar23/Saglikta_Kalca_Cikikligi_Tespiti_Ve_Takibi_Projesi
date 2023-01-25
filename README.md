@@ -1,2 +1,3 @@
 # Saglikta_Kalca_Cikikligi_Tespiti_Ve_Takibi_Projesi
  
+Proje Kalça çıkıklığı olan kişilerde tanılama amacı ile kullanılmaktadır. Kalça çıkıklığı olan birinde ördek yürüyüşü ve bir bacak kısalığı bulunmaktadır. Bu sebepten dolayı normal bir insan eşit süreyle basarken bacak kısalığı bulunan insan eşit sürelerle basamamaktadır. Sistemde buttonlar ve Led bulunmaktadır. Hasta ayağını geç basacağı zaman Işık yanacaktır. Normal insanın adım atmasındaki süre hesaplanmış ve kodlarda süre tanımlanmıştır. Ayakkabının içerisinde bulunan buton sayesinde her ayak basıldığı zaman veri alınacaktır. Gecikme olduğu zaman ise bildirim gelecek led yanacaktır.
